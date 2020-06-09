@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EDPVI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EDPVI_jar</output-path>
+    <root id="archive" name="EDPVI.jar">
+      <element id="module-output" name="EDPVI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/uade/mys/MathParser.org-mXparser-4.4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
